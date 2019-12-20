@@ -1,0 +1,2 @@
+python process_texture.py
+python get_material_indices.py
